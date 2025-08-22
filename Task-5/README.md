@@ -1,4 +1,4 @@
-# ✅ Task 5: Correlation Heatmap – Titanic Dataset  
+# ✅ Task 5: Visualizing Correlations – Titanic Dataset  
 
 **Objective:**  
 Analyze relationships between numerical features using a **correlation heatmap** to identify strong, weak, and negative correlations.  
